@@ -1,0 +1,15 @@
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\bin\Debug\net6.0\Example005_Conditionifelse.exe
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\bin\Debug\net6.0\Example005_Conditionifelse.deps.json
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\bin\Debug\net6.0\Example005_Conditionifelse.runtimeconfig.json
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\bin\Debug\net6.0\Example005_Conditionifelse.dll
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\bin\Debug\net6.0\Example005_Conditionifelse.pdb
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\Example005_Conditionifelse.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\Example005_Conditionifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\Example005_Conditionifelse.AssemblyInfoInputs.cache
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\Example005_Conditionifelse.AssemblyInfo.cs
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\Example005_Conditionifelse.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\Example005_Conditionifelse.dll
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\refint\Example005_Conditionifelse.dll
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\Example005_Conditionifelse.pdb
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\Example005_Conditionifelse.genruntimeconfig.cache
+C:\Users\Екатерина\Desktop\Examples\Example005_Conditionifelse\obj\Debug\net6.0\ref\Example005_Conditionifelse.dll
